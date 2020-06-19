@@ -42,4 +42,8 @@ public class MainActivity extends AppCompatActivity {
         }else if(v.getId() == R.id.btnRegistro) {
         }
     }
+     public void registrarse(View view) {
+        Intent intent = new Intent(this, FormularioRegistroActivity.class);
+        startActivity(intent);
+    }
 }
