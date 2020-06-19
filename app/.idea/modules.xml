@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/643802014/AMST_APP_BASICA.iml" filepath="$PROJECT_DIR$/.idea/modules/643802014/AMST_APP_BASICA.iml" group="AMST_APP_BASICA" />
+      <module fileurl="file://$PROJECT_DIR$/AMST_APP_BASICA-app.iml" filepath="$PROJECT_DIR$/AMST_APP_BASICA-app.iml" group="AMST_APP_BASICA/app" />
+      <module fileurl="file://$PROJECT_DIR$/../Laboratorio 0-AMST_APP_BASICA.iml" filepath="$PROJECT_DIR$/../Laboratorio 0-AMST_APP_BASICA.iml" group="AMST_APP_BASICA" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="AMST_APP_BASICA/app" />
     </modules>
   </component>
